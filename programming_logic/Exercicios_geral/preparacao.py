@@ -97,12 +97,17 @@ somatorio()
 
 # 5. Verificador de Palíndromos
 
+# 🧠 BLOCO 5: Fundamentos (Progressivo)
 
+""" 
+def maior(a,b):
+    return a if a > b else b
 
-
-
-
-
+x = maior(7, 8)
+print(x)
+ """
+ 
+ 
 
 
 
